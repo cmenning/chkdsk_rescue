@@ -406,3 +406,9 @@ Once everything is safe:
 - It recognizes BitLocker volumes and explains how to unlock them read-only, rather than misreading encrypted data.
 - It checks free space at the destination before extracting.
 - Recovered files that came from partial maps or reused space are flagged during extraction; gaps are filled with zeros, never with guesses.
+
+---
+
+## License
+
+BSD 3-Clause. See [LICENSE](LICENSE).
